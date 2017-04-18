@@ -7,6 +7,8 @@
 	$section_one_body_text_type: 'textarea',
 	section_one_image: 'http://res.cloudinary.com/csakis-fesztival/image/upload/v1491554035/sample.jpg',
 	$section_one_image_type: 'image',
+	section_two_image: 'http://res.cloudinary.com/csakis-fesztival/image/upload/v1491554035/sample.jpg',
+	$section_two_image_type: 'image',
 	$banner_image_type: 'image',
 	banner_image: 'http://res.cloudinary.com/csakis-fesztival/image/upload/c_scale,w_1371/v1491554140/CSAKISbannerlong-withdates_u1k9ml.jpg',
 	$logo_type: 'image',
